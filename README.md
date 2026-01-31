@@ -1,16 +1,20 @@
-## Hi there 👋
+## TheHoodV
 
-<!--
-**thehoodV/thehoodV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Offensive Security Researcher focused on Recon Automation, Attack Surface Mapping and Web Application Analysis.
 
-Here are some ideas to get you started:
+I build tools and methodologies to scale reconnaissance and vulnerability discovery in large web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Reconnaissance automation with Playwright and Node.js
+- JavaScript analysis for hidden endpoints
+- Attack surface expansion
+- Parameter and endpoint discovery
+- Custom tooling for bug bounty workflows
+
+## Methodology
+
+My research focuses on building repeatable processes to map, analyze and expand web application attack surfaces efficiently.
+
+All repositories here document tools, methodologies and case studies used during security research.
+
